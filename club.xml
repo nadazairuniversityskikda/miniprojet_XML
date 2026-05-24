@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<clubInfoTech xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="club.xsd">
+    <categories>
+        <category id="CAT01">
+            <nomCategorie>Intelligence Artificielle</nomCategorie>
+            <membres>
+                <membre id="M001">
+                    <nom>ALI GUECHI</nom>
+                    <prenom>NERIMANE</prenom>
+                    <email>n.aliguechi@club.dz</email>
+                    <dateInscription>2025-10-15</dateInscription>
+                </membre>
+                <membre id="M002">
+                    <nom>AMMARI</nom>
+                    <prenom>MOHAMED ALA EDDINE</prenom>
+                    <email>m.ammari@club.dz</email>
+                    <dateInscription>2025-10-15</dateInscription>
+                </membre>
+                <membre id="M003">
+                    <nom>ARNANE</nom>
+                    <prenom>DOUAA</prenom>
+                    <email>d.arnane@club.dz</email>
+                    <dateInscription>2025-10-16</dateInscription>
+                </membre>
+                <membre id="M004">
+                    <nom>BECHIRI</nom>
+                    <prenom>ABDERRAHMANE</prenom>
+                    <email>a.bechiri@club.dz</email>
+                    <dateInscription>2025-10-16</dateInscription>
+                </membre>
+                <membre id="M005">
+                    <nom>BELGHIT</nom>
+                    <prenom>MIADA</prenom>
+                    <email>m.belghit@club.dz</email>
+                    <dateInscription>2025-10-18</dateInscription>
+                </membre>
+                <membre id="M006">
+                    <nom>BENHAMAID</nom>
+                    <prenom>ASMA</prenom>
+                    <email>a.benhamaid@club.dz</email>
+                    <dateInscription>2025-10-20</dateInscription>
+                </membre>
+                <membre id="M007">
+                    <nom>BENKASSA</nom>
+                    <prenom>DJABEUR ABDERRAHMANE</prenom>
+                    <email>d.benkassa@club.dz</email>
+                    <dateInscription>2025-10-20</dateInscription>
+                </membre>
+                <membre id="M008">
+                    <nom>BERDOUDI</nom>
+                    <prenom>OUSSAMA</prenom>
+                    <email>o.berdoudi@club.dz</email>
+                    <dateInscription>2025-10-22</dateInscription>
+                </membre>
+                <membre id="M009">
+                    <nom>BOUAFIA</nom>
+                    <prenom>OUISSALE</prenom>
+                    <email>o.bouafia@club.dz</email>
+                    <dateInscription>2025-10-22</dateInscription>
+                </membre>
+                <membre id="M010">
+                    <nom>BOUAKAZ</nom>
+                    <prenom>WISSAL</prenom>
+                    <email>w.bouakaz@club.dz</email>
+                    <dateInscription>2025-10-22</dateInscription>
+                </membre>
+                <membre id="M011">
+                    <nom>BOUAKKAZ</nom>
+                    <prenom>AMINA</prenom>
+                    <email>a.bouakkaz@club.dz</email>
+                    <dateInscription>2025-10-25</dateInscription>
+                </membre>
+                <membre id="M012">
+                    <nom>BOUCHAALI</nom>
+                    <prenom>IMANE</prenom>
+                    <email>i.bouchaali@club.dz</email>
+                    <dateInscription>2025-10-25</dateInscription>
+                </membre>
+                <membre id="M013">
+                    <nom>BOUGRIRES</nom>
+                    <prenom>ABIR</prenom>
+                    <email>a.bougrires@club.dz</email>
+                    <dateInscription>2025-10-26</dateInscription>
+                </membre>
+                <membre id="M014">
+                    <nom>BOUTABA</nom>
+                    <prenom>MOHAMED EL AMINE</prenom>
+                    <email>m.boutaba@club.dz</email>
+                    <dateInscription>2025-10-26</dateInscription>
+                </membre>
+                <membre id="M015">
+                    <nom>BAAMEUR CHIKH</nom>
+                    <prenom>SALAH EDDINE</prenom>
+                    <email>s.baameurchikh@club.dz</email>
+                    <dateInscription>2025-11-01</dateInscription>
+                </membre>
+                <membre id="M016">
+                    <nom>BICI</nom>
+                    <prenom>MOHAMED NAZIM</prenom>
+                    <email>m.bici@club.dz</email>
+                    <dateInscription>2025-11-01</dateInscription>
+                </membre>
+            </membres>
+        </category>
+
+        <category id="CAT02">
+            <nomCategorie>Développement Web</nomCategorie>
+            <membres>
+                <membre id="M017">
+                    <nom>BOUAFIA</nom>
+                    <prenom>RANIA MILAD</prenom>
+                    <email>r.bouafia@club.dz</email>
+                    <dateInscription>2025-11-02</dateInscription>
+                </membre>
+                <membre id="M018">
+                    <nom>BOUCHAREB</nom>
+                    <prenom>WAIL ABD EL RAOUF</prenom>
+                    <email>w.bouchareb@club.dz</email>
+                    <dateInscription>2025-11-02</dateInscription>
+                </membre>
+                <membre id="M019">
+                    <nom>BOUCHERKA</nom>
+                    <prenom>SELSEBIL</prenom>
+                    <email>s.boucherka@club.dz</email>
+                    <dateInscription>2025-11-03</dateInscription>
+                </membre>
+                <membre id="M020">
+                    <nom>BOUDEKHANA</nom>
+                    <prenom>ANFAL</prenom>
+                    <email>a.boudekhana@club.dz</email>
+                    <dateInscription>2025-11-03</dateInscription>
+                </membre>
+                <membre id="M021">
+                    <nom>BOUGAMOUZA</nom>
+                    <prenom>MOHAMED EL MEHDI</prenom>
+                    <email>m.bougamouza@club.dz</email>
+                    <dateInscription>2025-11-05</dateInscription>
+                </membre>
+                <membre id="M022">
+                    <nom>BOUKEBIR</nom>
+                    <prenom>HANA</prenom>
+                    <email>h.boukebir@club.dz</email>
+                    <dateInscription>2025-11-05</dateInscription>
+                </membre>
+                <membre id="M023">
+                    <nom>BOURIA</nom>
+                    <prenom>TEIMA</prenom>
+                    <email>t.bouria@club.dz</email>
+                    <dateInscription>2025-11-06</dateInscription>
+                </membre>
+                <membre id="M024">
+                    <nom>BOUZABIA</nom>
+                    <prenom>KHOULOUD</prenom>
+                    <email>k.bouzabia@club.dz</email>
+                    <dateInscription>2025-11-06</dateInscription>
+                </membre>
+                <membre id="M025">
+                    <nom>KEHIT</nom>
+                    <prenom>BOUCHRA</prenom>
+                    <email>b.kehit@club.dz</email>
+                    <dateInscription>2025-11-08</dateInscription>
+                </membre>
+                <membre id="M026">
+                    <nom>MEGHERBI</nom>
+                    <prenom>NOUHA</prenom>
+                    <email>n.megherbi@club.dz</email>
+                    <dateInscription>2025-11-10</dateInscription>
+                </membre>
+                <membre id="M027">
+                    <nom>MEKSEN</nom>
+                    <prenom>NADJIB</prenom>
+                    <email>n.meksen@club.dz</email>
+                    <dateInscription>2025-11-10</dateInscription>
+                </membre>
+                <membre id="M028">
+                    <nom>BAGHA</nom>
+                    <prenom>SADJEDA</prenom>
+                    <email>s.bagha@club.dz</email>
+                    <dateInscription>2025-11-12</dateInscription>
+                </membre>
+                <membre id="M029">
+                    <nom>BOUCHEHIT</nom>
+                    <prenom>WANASAH MERIEM</prenom>
+                    <email>w.bouchehit@club.dz</email>
+                    <dateInscription>2025-11-12</dateInscription>
+                </membre>
+                <membre id="M030">
+                    <nom>BOUGHAZI</nom>
+                    <prenom>ZAKARIA</prenom>
+                    <email>z.boughazi@club.dz</email>
+                    <dateInscription>2025-11-15</dateInscription>
+                </membre>
+                <membre id="M031">
+                    <nom>BOUKHECHIMA</nom>
+                    <prenom>HADJER</prenom>
+                    <email>h.boukhechima@club.dz</email>
+                    <dateInscription>2025-11-15</dateInscription>
+                </membre>
+                <membre id="M032">
+                    <nom>DAHMRI</nom>
+                    <prenom>CHEMS</prenom>
+                    <email>c.dahmri@club.dz</email>
+                    <dateInscription>2025-11-16</dateInscription>
+                </membre>
+                <membre id="M033">
+                    <nom>DJOUAD</nom>
+                    <prenom>WISSEM</prenom>
+                    <email>w.djouad@club.dz</email>
+                    <dateInscription>2025-11-18</dateInscription>
+                </membre>
+            </membres>
+        </category>
+
+        <category id="CAT03">
+            <nomCategorie>Sécurité Informatique</nomCategorie>
+            <membres>
+                <membre id="M034">
+                    <nom>FERHAT</nom>
+                    <prenom>CHAIMA SIRINE</prenom>
+                    <email>c.ferhat@club.dz</email>
+                    <dateInscription>2025-11-20</dateInscription>
+                </membre>
+                <membre id="M035">
+                    <nom>GRIMED</nom>
+                    <prenom>IKRAM</prenom>
+                    <email>i.grimed@club.dz</email>
+                    <dateInscription>2025-11-20</dateInscription>
+                </membre>
+                <membre id="M036">
+                    <nom>GUERMIT</nom>
+                    <prenom>DOUAA IBTIHEL</prenom>
+                    <email>d.guermit@club.dz</email>
+                    <dateInscription>2025-11-22</dateInscription>
+                </membre>
+                <membre id="M037">
+                    <nom>GUERZI</nom>
+                    <prenom>DOUAA</prenom>
+                    <email>d.guerzi@club.dz</email>
+                    <dateInscription>2025-11-22</dateInscription>
+                </membre>
+                <membre id="M038">
+                    <nom>HADIBY</nom>
+                    <prenom>MOHAMED ISLEM</prenom>
+                    <email>m.hadiby@club.dz</email>
+                    <dateInscription>2025-11-25</dateInscription>
+                </membre>
+                <membre id="M039">
+                    <nom>BRIQUA</nom>
+                    <prenom>MARIA</prenom>
+                    <email>m.briqua@club.dz</email>
+                    <dateInscription>2025-11-25</dateInscription>
+                </membre>
+                <membre id="M040">
+                    <nom>GUENOUNE</nom>
+                    <prenom>ABDE LAZIZ</prenom>
+                    <email>a.guenoune@club.dz</email>
+                    <dateInscription>2025-11-26</dateInscription>
+                </membre>
+                <membre id="M041">
+                    <nom>KABACHE</nom>
+                    <prenom>AHMED AMIR</prenom>
+                    <email>a.kabache@club.dz</email>
+                    <dateInscription>2025-11-26</dateInscription>
+                </membre>
+                <membre id="M042">
+                    <nom>KOREICHI</nom>
+                    <prenom>AHMED HEITHEM</prenom>
+                    <email>a.koreichi@club.dz</email>
+                    <dateInscription>2025-11-28</dateInscription>
+                </membre>
+                <membre id="M043">
+                    <nom>LACHRAF</nom>
+                    <prenom>ABDELMALEK</prenom>
+                    <email>a.lachraf@club.dz</email>
+                    <dateInscription>2025-11-28</dateInscription>
+                </membre>
+                <membre id="M044">
+                    <nom>MAALEM</nom>
+                    <prenom>WISSAL</prenom>
+                    <email>w.maalem@club.dz</email>
+                    <dateInscription>2025-11-30</dateInscription>
+                </membre>
+                <membre id="M045">
+                    <nom>MAZOUZI</nom>
+                    <prenom>AMIN</prenom>
+                    <email>a.mazouzi@club.dz</email>
+                    <dateInscription>2025-11-30</dateInscription>
+                </membre>
+                <membre id="M046">
+                    <nom>MEDJERAB</nom>
+                    <prenom>EL KHANSA</prenom>
+                    <email>e.medjerab@club.dz</email>
+                    <dateInscription>2025-12-01</dateInscription>
+                </membre>
+                <membre id="M047">
+                    <nom>MEDJOUDJ</nom>
+                    <prenom>KHALIL ERRAHMENE</prenom>
+                    <email>k.medjoudj@club.dz</email>
+                    <dateInscription>2025-12-01</dateInscription>
+                </membre>
+                <membre id="M048">
+                    <nom>YAHYAOUI</nom>
+                    <prenom>WISSAL</prenom>
+                    <email>w.yahyaoui@club.dz</email>
+                    <dateInscription>2025-12-02</dateInscription>
+                </membre>
+                <membre id="M049">
+                    <nom>SELLAOUI</nom>
+                    <prenom>KARIMA</prenom>
+                    <email>k.sellaoui@club.dz</email>
+                    <dateInscription>2025-12-02</dateInscription>
+                </membre>
+                <membre id="M050">
+                    <nom>ZAIR</nom>
+                    <prenom>NADA</prenom>
+                    <email>n.zair@club.dz</email>
+                    <dateInscription>2025-12-03</dateInscription>
+                </membre>
+            </membres>
+        </category>
+    </categories>
+
+    <concoursList>
+        <concours id="C01">
+            <nomConcours>National AI Challenge 2026</nomConcours>
+            <dateConcours>2026-03-15</dateConcours>
+            <idCategorieCible>CAT01</idCategorieCible>
+            <participants>
+                <participant idMembre="M001">
+                    <complexite>4</complexite>
+                    <tempsExecution>120</tempsExecution>
+                    <coefficient>1.5</coefficient>
+                </participant>
+                <participant idMembre="M002">
+                    <complexite>5</complexite>
+                    <tempsExecution>95</tempsExecution>
+                    <coefficient>1.5</coefficient>
+                </participant>
+                <participant idMembre="M009">
+                    <complexite>3</complexite>
+                    <tempsExecution>110</tempsExecution>
+                    <coefficient>1.5</coefficient>
+                </participant>
+            </participants>
+        </concours>
+
+        <concours id="C02">
+            <nomConcours>WebDev Hackathon 2026</nomConcours>
+            <dateConcours>2026-04-10</dateConcours>
+            <idCategorieCible>CAT02</idCategorieCible>
+            <participants>
+                <participant idMembre="M017">
+                    <complexite>4</complexite>
+                    <tempsExecution>150</tempsExecution>
+                    <coefficient>2.0</coefficient>
+                </participant>
+                <participant idMembre="M024">
+                    <complexite>5</complexite>
+                    <tempsExecution>105</tempsExecution>
+                    <coefficient>2.0</coefficient>
+                </participant>
+                <participant idMembre="M032">
+                    <complexite>4</complexite>
+                    <tempsExecution>130</tempsExecution>
+                    <coefficient>2.0</coefficient>
+                </participant>
+            </participants>
+        </concours>
+
+        <concours id="C03">
+            <nomConcours>CyberSecurity CTF Skikda</nomConcours>
+            <dateConcours>2026-05-02</dateConcours>
+            <idCategorieCible>CAT03</idCategorieCible>
+            <participants>
+                <participant idMembre="M049">
+                    <complexite>5</complexite>
+                    <tempsExecution>80</tempsExecution>
+                    <coefficient>2.5</coefficient>
+                </participant>
+                <participant idMembre="M050">
+                    <complexite>5</complexite>
+                    <tempsExecution>75</tempsExecution>
+                    <coefficient>2.5</coefficient>
+                </participant>
+                <participant idMembre="M044">
+                    <complexite>4</complexite>
+                    <tempsExecution>90</tempsExecution>
+                    <coefficient>2.5</coefficient>
+                </participant>
+            </participants>
+        </concours>
+    </concoursList>
+</clubInfoTech>

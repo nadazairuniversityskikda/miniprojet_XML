@@ -1,0 +1,230 @@
+/* إعدادات الخطوط والألوان العامة للمظهر التقني الحديث */
+:root {
+    --bg-main: #0b0f19;
+    --bg-card: #151b2c;
+    --bg-accent: #1e2640;
+    --text-main: #f3f4f6;
+    --text-muted: #9ca3af;
+    --primary: #10b981; /* اللون الأخضر الزمردي */
+    --primary-glow: rgba(16, 185, 129, 0.2);
+    --secondary: #3b82f6; /* اللون الأزرق التقني */
+    --gradient-1: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    --gradient-2: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    padding: 40px 20px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+/* تصميم الهيدر (رأس الصفحة) */
+header {
+    text-align: center;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+header h1 {
+    font-size: 2.8rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #10b981, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+header p {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+/* بطاقات الإحصائيات السريعة */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--bg-accent);
+    padding: 25px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary);
+    box-shadow: 0 10px 20px rgba(16, 185, 129, 0.05);
+}
+
+.stat-info h3 {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.stat-info .number {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-main);
+}
+
+.stat-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.icon-members { background: rgba(16, 185, 129, 0.1); color: var(--primary); }
+.icon-categories { background: rgba(59, 130, 246, 0.1); color: var(--secondary); }
+
+/* العناوين والأقسام */
+section {
+    margin-bottom: 60px;
+}
+
+.section-title {
+    font-size: 1.6rem;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-main);
+    border-bottom: 1px solid var(--bg-accent);
+    padding-bottom: 10px;
+}
+
+.section-title span {
+    width: 6px;
+    height: 25px;
+    background: var(--primary);
+    border-radius: 3px;
+    display: inline-block;
+}
+
+/* الكروت الخاصة بالتخصصات والمسابقات */
+.category-block {
+    background: var(--bg-card);
+    border: 1px solid var(--bg-accent);
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 35px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+.category-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.category-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.category-badge {
+    background: var(--bg-accent);
+    padding: 6px 14px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    color: var(--primary);
+    font-weight: 600;
+    border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.concours-badge {
+    color: var(--secondary);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+/* تصميم الجداول الخرافي */
+.table-responsive {
+    overflow-x: auto;
+    border-radius: 12px;
+    border: 1px solid var(--bg-accent);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    background-color: var(--bg-accent);
+    color: var(--text-main);
+    padding: 16px 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 16px 20px;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    border-bottom: 1px solid var(--bg-accent);
+    background-color: rgba(21, 27, 44, 0.4);
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:hover td {
+    background-color: rgba(30, 38, 64, 0.4);
+    cursor: pointer;
+}
+
+/* تمييز المعرفات والأسماء */
+.id-badge {
+    font-family: 'Courier New', Courier, monospace;
+    background: rgba(255,255,255,0.05);
+    padding: 4px 8px;
+    border-radius: 6px;
+    color: var(--text-main);
+    font-weight: bold;
+}
+
+.score-text {
+    font-weight: 700;
+    color: var(--primary);
+    text-shadow: 0 0 10px var(--primary-glow);
+}
+
+/* تنسيق الاتجاه إذا كانت اللغة فرنسية أو عربية ليبقى متناسقاً */
+.text-muted {
+    color: var(--text-muted);
+}
